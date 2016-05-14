@@ -15,14 +15,16 @@ Phone: **626-665-2335**, Email: [scott@scottflodin.com](mailto:scott@scottflodin
 
 **Integrations:** Google Maps, Twilio, Mandrill, Stripe, Authorize.net, PayPal
 
-**Tools:** Sublime Text2, Adobe CS, OpenOffice, GitHub, MAMP, XCode, Terminal
+**Tools:** Adobe CS, OpenOffice, GitHub, MAMP, XCode, Sublime Text2, Terminal
 
 
 **Work Experience**
 
+**2015-present: Senior front-end developer, [SiSTeR Technologies](http://sister.tv "website").** Write Javascript code to integrate company media product into subscriber websites. Focus on cross-browser compatibility.
+
 **2004-present: Director, Scott Flodin Design Studio.** This is my design and development shop. Client work is primarily custom web development and developing print and web.
 
-**1995-2003: News artist, The Sacramento Bee.** I designed and produced charts, maps and explanatory graphics. 
+**1995-2003: News artist, The Sacramento Bee.** I designed and produced explanatory graphics, charts and maps. 
 
 
 **Education**
