@@ -9,13 +9,13 @@ Phone: **626-665-2335**, Email: [scott@scottflodin.com](mailto:scott@scottflodin
 
 **Proficiencies**
 
+**Front-end:** HTML 5, Javascript, AngularJS, Jquery, Backbone.js, CSS, Cordova
+
 **Back-end:** Unix, Apache, MySQL, PHP
 
-**Front-end:** HTML 5, Javascript, Jquery, Backbone.js, CSS, Cordova
+**Integrations:** Twilio, Mandrill, Stripe, Authorize.net, PayPal, Google Maps
 
-**Integrations:** Google Maps, Twilio, Mandrill, Stripe, Authorize.net, PayPal
-
-**Tools:** Adobe CS, OpenOffice, GitHub, MAMP, XCode, Sublime Text2, Terminal
+**Tools:** Adobe CS, OpenOffice, GitHub, MAMP, XCode, Sublime Text2, UNIX command line
 
 
 **Work Experience**
