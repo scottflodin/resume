@@ -1,5 +1,5 @@
 # resume
-Developer, designer, UX advocate
+UI developer | UX designer
 
 
 **Scott Flodin** [ Developer, designer -- Dallas, TX ]
