@@ -20,7 +20,7 @@ Phone: **626-665-2335**, Email: [scott@scottflodin.com](mailto:scott@scottflodin
 
 **Work Experience**
 
-**2017-present: Vice President, software engineering, [JPMorgan Chase & Co.](https://www.chase.com "website").** Manage software engineering team to drive solutions for world-class fintech software applications. Front-end engineer and user-interface developer. Project skills include agile development, planning and execution. Software skills include Javascript, JPMC proprietary MVC framework and responsive design using HTML, CSS, jQuery, Bootstrap. Other tools include NodeJS, Cloud Foundry and Atlassian project management tools.
+**2017-present: Vice President, software engineering, [JPMorgan Chase & Co.](https://www.chase.com "website").** Manage a team of software engineers to build solutions for world-class fintech software applications. Front-end engineer and user-interface developer. Project skills include agile development, planning and execution. Software skills include Javascript, JPMC proprietary MVC framework and responsive design using HTML, CSS, jQuery, Bootstrap. Other tools include NodeJS, Cloud Foundry and Atlassian project management tools.
 
 **2015-2017: Senior front-end developer, [SiSTeR Technologies](http://sister.tv "website").** Develop Javascript integrations for interactive media into subscriber websites with a focus on cross-browser compatibility. Other responsibilities include: write AngularJS apps for client control panel, develop new company website, design and write corporate marketing material, assist with trade show presense, manage social media and AdWords campaign.
 
