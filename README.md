@@ -2,9 +2,9 @@
 UI developer | UX designer
 
 
-**Scott Flodin** [ Developer, designer -- Dallas, TX ]
+**Scott Flodin** [ Developer, designer -- Chicago, IL ]
 
-Phone: **626-665-2335**, Email: [scott@scottflodin.com](mailto:scott@scottflodin.com "email"), Web: [scottflodin.com](http://scottflodin.com "website"), GitHub: [github.com/scottflodin](https://github.com/scottflodin "GitHub"), LinkedIn: [linkedin.com/scottflodin](http://linkedin.com/scottflodin "LinkedIn"), Twitter: [@scottflodin](http://twitter.com/scottflodin "twitter")
+Phone: **626-665-2335**, Email: [scott@scottflodin.com](mailto:scott@scottflodin.com "email"), Web: [scottflodin.com](http://scottflodin.com "website"), GitHub: [github.com/scottflodin](https://github.com/scottflodin "GitHub"), LinkedIn: [linkedin.com/scottflodin](http://linkedin.com/scottflodin "LinkedIn")
 
 
 **Proficiencies**
